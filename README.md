@@ -8,7 +8,7 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV3Y2ZnbTM0NzV0d2ZvY3E1b2hmaXAzaW1rN3Q4dm50dHExYXBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZKa7ZYQpEabzDwukuN/giphy-downsized-large.gif" alt="project-screenshot">
 
-<h2>🛠️ If you work on Unity:</h2><br>
+<h2>🛠️ If you work on Unity:</h2>
 
 <p>1. If you are going to work on Unity you should extract the 7z file in the Library folder to the same location.</p>
 
